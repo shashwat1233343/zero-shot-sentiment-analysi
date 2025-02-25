@@ -1,0 +1,526 @@
+,Hotel_Name,Review,Total_Review,Rating,Location
+0,Oakwood Residence Midtown East,Superb ,28,9.1,Murray Hill 
+1,Murray Hill East Suites,Good ,52,7.6,Murray Hill 
+2,The Herald 8 by LuxUrban,Good ,"2,870",7.8,Manhattan 
+3,"The Cloud One New York-Downtown, by the Motel One Group",Very good ,975,8.3,Wall Street - Financial District 
+4,Pod Times Square,Very good ,"13,951",8.1,Hell's Kitchen 
+5,West Side YMCA,Review score ,"8,044",6.6,Upper West Side 
+6,Hyatt Place New York City/Times Square,Good ,"16,148",7.6,Hell's Kitchen 
+7,The Tuscany Powered by LuxUrban,Good ,343,7.5,Murray Hill 
+8,Hilton Garden Inn New York Central Park South-Midtown West,Good ,"6,038",7.1,Manhattan 
+9,"Crowne Plaza Times Square Manhattan, an IHG Hotel",Good ,"2,028",7.7,Manhattan 
+10,"The New Yorker, A Wyndham Hotel",Good ,"9,659",7.7,Hell's Kitchen 
+11,The Manhattan at Times Square,Review score ,"4,435",5.6,Manhattan 
+12,Riu Plaza Manhattan Times Square,Fabulous ,"7,298",8.6,Manhattan 
+13,Hotel Edison Times Square,Good ,"11,455",7.3,Manhattan 
+14,Paramount Hotel Times Square,Review score ,"2,802",6.5,Manhattan 
+15,Courtyard by Marriott Times Square West,Very good ,"1,847",8.2,Hell's Kitchen 
+16,Four Points by Sheraton New York Downtown,Good ,"2,189",7.2,Wall Street - Financial District 
+17,Courtyard New York Downtown Manhattan/Financial District,Good ,703,7.3,Wall Street - Financial District 
+18,DoubleTree by Hilton Hotel New York City - Chelsea,Good ,"1,382",7.3,Chelsea 
+19,Fairfield Inn & Suites By Marriott New York Manhattan/Times Square,Good ,"4,646",7.7,Hell's Kitchen 
+20,Home2 Suites By Hilton New York Times Square,Very good ,951,8,Manhattan 
+21,Hilton Garden Inn New York/Midtown Park Avenue,Very good ,"4,498",8.1,Manhattan 
+22,SpringHill Suites by Marriott New York Manhattan Chelsea,Very good ,"1,475",8.5,Chelsea 
+23,CIVILIAN Hotel,Good ,"6,245",7,Hell's Kitchen 
+24,Millennium Hotel Broadway Times Square,Superb ,28,9.1,Manhattan 
+25,Oakwood Residence Midtown East,Good ,52,7.6,Murray Hill 
+26,Murray Hill East Suites,Good ,"2,870",7.8,Murray Hill 
+27,The Herald 8 by LuxUrban,Very good ,975,8.3,Manhattan 
+28,"The Cloud One New York-Downtown, by the Motel One Group",Very good ,"13,951",8.1,Wall Street - Financial District 
+29,Pod Times Square,Review score ,"8,044",6.6,Hell's Kitchen 
+30,West Side YMCA,Good ,"16,148",7.6,Upper West Side 
+31,Hyatt Place New York City/Times Square,Good ,343,7.5,Hell's Kitchen 
+32,The Tuscany Powered by LuxUrban,Good ,"6,038",7.1,Murray Hill 
+33,Hilton Garden Inn New York Central Park South-Midtown West,Good ,"2,028",7.7,Manhattan 
+34,"Crowne Plaza Times Square Manhattan, an IHG Hotel",Good ,"9,659",7.7,Manhattan 
+35,"The New Yorker, A Wyndham Hotel",Review score ,"4,435",5.6,Hell's Kitchen 
+36,The Manhattan at Times Square,Fabulous ,"7,298",8.6,Manhattan 
+37,Riu Plaza Manhattan Times Square,Good ,"11,455",7.3,Manhattan 
+38,Hotel Edison Times Square,Review score ,"2,802",6.5,Manhattan 
+39,Paramount Hotel Times Square,Very good ,"1,847",8.2,Manhattan 
+40,Courtyard by Marriott Times Square West,Good ,"2,189",7.2,Hell's Kitchen 
+41,Four Points by Sheraton New York Downtown,Good ,703,7.3,Wall Street - Financial District 
+42,Courtyard New York Downtown Manhattan/Financial District,Good ,"1,382",7.3,Wall Street - Financial District 
+43,DoubleTree by Hilton Hotel New York City - Chelsea,Good ,"4,646",7.7,Chelsea 
+44,Fairfield Inn & Suites By Marriott New York Manhattan/Times Square,Very good ,951,8,Hell's Kitchen 
+45,Home2 Suites By Hilton New York Times Square,Very good ,"4,498",8.1,Manhattan 
+46,Hilton Garden Inn New York/Midtown Park Avenue,Very good ,"1,475",8.5,Manhattan 
+47,SpringHill Suites by Marriott New York Manhattan Chelsea,Good ,"6,245",7,Chelsea 
+48,CIVILIAN Hotel,Good ,"5,866",7.5,Hell's Kitchen 
+49,Millennium Hotel Broadway Times Square,Very good ,959,8.3,Manhattan 
+50,Element Times Square West,Very good ,"1,876",8,Hell's Kitchen 
+51,The Gotham Hotel,Very good ,848,8.3,Midtown East 
+52,The Manhattan Club,Good ,"3,097",7.9,Manhattan 
+53,Courtyard by Marriott New York Manhattan/Chelsea,Very good ,"3,477",8.1,Chelsea 
+54,Leo House,Very good ,"1,648",8.5,Chelsea 
+55,Residence Inn by Marriott New York Manhattan/Times Square,Review score ,46,5.9,Manhattan 
+56,AC Hotel by Marriott New York Downtown,Fabulous ,"2,289",8.8,Wall Street - Financial District 
+57,The Home Hotel Powered by LuxUrban,Very good ,148,8.1,Hell's Kitchen 
+58,citizenM New York Bowery,Very good ,664,8.3,Lower East Side 
+59,Hilton New York Times Square,Good ,"1,867",7.9,Manhattan 
+60,Iberostar 70 Park Avenue,Very good ,"1,067",8,Murray Hill 
+61,U Hotel Fifth Avenue I Empire State Building,Very good ,130,8.4,Manhattan 
+62,Courtyard New York Manhattan/Midtown East,Good ,920,7.5,Midtown East 
+63,Grayson Hotel,Good ,"2,560",7.6,Manhattan 
+64,New York Hilton Midtown,Very good ,"3,878",8.1,Manhattan 
+65,Sheraton Tribeca New York Hotel,Good ,"1,698",7.6,Tribeca 
+66,The Belvedere Hotel,Good ,719,7.6,Hell's Kitchen 
+67,Hilton Garden Inn New York - Times Square Central,Good ,"7,585",7.8,Manhattan 
+68,Dream Midtown,Good ,"1,180",7.6,Manhattan 
+69,Pod 51,Good ,"2,035",7.5,Midtown East 
+70,"Hotel Shocard Broadway, Times Square",Very good ,"6,144",8.4,Manhattan 
+71,Long Term Stays Manhattan,Fabulous ,638,8.7,Washington Heights 
+72,"Holiday Inn New York City - Times Square, an IHG Hotel",Very good ,"9,240",8.2,Hell's Kitchen 
+73,M Social Hotel Times Square New York,Good ,"3,907",7.3,Manhattan 
+74,Omni Berkshire Place,Good ,"3,128",7.9,Midtown East 
+75,HI New York City Hostel,Fabulous ,"2,383",8.6,Upper West Side 
+76,Millennium Downtown New York,Review score ,833,6.6,Wall Street - Financial District 
+77,"Holiday Inn Express New York City Chelsea, an IHG Hotel",Good ,558,7.8,Chelsea 
+78,Courtyard New York Manhattan/Midtown West,Very good ,"3,170",8.3,Hudson Yards 
+79,"Holiday Inn Express Manhattan Midtown West, an IHG Hotel",Fabulous ,"2,857",8.7,Hell's Kitchen 
+80,Renaissance New York Chelsea Hotel,Very good ,981,8,Chelsea 
+81,World Center Hotel,Very good ,192,8.5,Wall Street - Financial District 
+82,citizenM New York Times Square,Good ,"1,449",7.9,Manhattan 
+83,"InterContinental New York Barclay Hotel, an IHG Hotel",Good ,"1,373",7.2,Midtown East 
+84,"Park South Hotel, part of JdV by Hyatt",Good ,598,7.7,NoMad 
+85,The Allen Hotel,Good ,"3,859",7.7,Lower East Side 
+86,City Club Hotel,Very good ,"3,639",8.3,Manhattan 
+87,Eurostars Wall Street,Good ,"1,048",7,Wall Street - Financial District 
+88,Ameritania at Times Square,Very good ,"2,859",8.1,Manhattan 
+89,Hampton Inn Manhattan-35th St Empire State Bldg,Good ,"2,412",7.7,Manhattan 
+90,Four Points by Sheraton Manhattan Chelsea,Superb ,749,9,Chelsea 
+91,TownePlace Suites by Marriott New York Manhattan/Chelsea,Very good ,"6,639",8.4,Chelsea 
+92,Hilton Garden Inn New York Times Square North,Good ,"1,143",7.4,Manhattan 
+93,Sanctuary NYC Retreats,Very good ,"2,353",8.2,Lower East Side 
+94,Riu Plaza New York Times Square,Review score ,"3,002",6.6,Hell's Kitchen 
+95,Aloft Manhattan Downtown - Financial District,Very good ,"8,844",8,Wall Street - Financial District 
+96,La Quinta by Wyndham Time Square South,Good ,"9,240",7.6,Hell's Kitchen 
+97,La Quinta by Wyndham New York City Central Park,Very good ,"3,907",8,Upper West Side 
+98,MOXY NYC Times Square,Good ,"3,128",7.9,Manhattan 
+99,Murray Hill 1BR w Gym Doorman Pool Rooftop NYC-585,Good ,"2,383",7.9,Kips Bay 
+100,Hampton Inn Manhattan Grand Central,Very good ,833,8.5,Midtown East 
+101,The Westin New York Grand Central,Good ,558,7.9,Murray Hill 
+102,Tribeca Studio w Great views Indoor pool NYC-109,Good ,"3,170",7.7,Tribeca 
+103,Freehand New York,Very good ,"2,857",8.2,Gramercy 
+104,Arthouse Hotel,Good ,981,7.5,Upper West Side 
+105,Hilton Garden Inn NYC Financial Center/Manhattan Downtown,Review score ,192,6.5,Wall Street - Financial District 
+106,Hotel St. James,Fabulous ,"1,449",8.6,Manhattan 
+107,The Evelyn NoMad,Very good ,"1,373",8.2,NoMad 
+108,Courtyard by Marriott New York Manhattan/Central Park,Good ,598,7.9,Manhattan 
+109,TBA Times Square,Good ,"3,859",7.5,Hell's Kitchen 
+110,"Holiday Inn Express - Wall Street, an IHG Hotel",Good ,"3,639",7,Wall Street - Financial District 
+111,"Hotel 50 Bowery, part of JdV by Hyatt",Very good ,"1,048",8.2,Chinatown 
+112,New York Marriott Marquis,Very good ,"2,859",8.1,Manhattan 
+113,Fairfield Inn & Suites by Marriott New York Manhattan/Central Park,Good ,"2,412",7.6,Hell's Kitchen 
+114,Fairfield Inn & Suites by Marriott New York Manhattan/Chelsea,Very good ,749,8,Chelsea 
+115,Ramada by Wyndham New York Times Square West,Good ,"6,639",7.8,Hell's Kitchen 
+116,"Hotel Indigo NYC Downtown - Wall Street, an IHG Hotel",Very good ,"1,143",8.1,Wall Street - Financial District 
+117,Leon Hotel LES,Very good ,"2,353",8,Lower East Side 
+118,Citadines Connect Fifth Avenue New York,Very good ,"3,002",8,Manhattan 
+119,Club Quarters Hotel Grand Central ,Very good ,"8,844",8.2,Midtown East 
+120,The Blakely by LuxUrban,Very good ,57,8,Manhattan 
+121,"The Bernic Hotel New York City,Tapestry Collection by Hilton",Good ,657,7.6,Midtown East 
+122,Virgin Hotels New York City,Very good ,"2,535",8.3,NoMad 
+123,Courtyard by Marriott New York Manhattan / Soho,Very good ,946,8.3,SoHo 
+124,Hyatt House New York/Chelsea,Good ,"1,087",7.9,Chelsea 
+125,SpringHill Suites by Marriott New York Midtown Manhattan/Park Ave,Good ,"3,627",7.3,Flatiron District 
+126,Wyndham Garden Chinatown,Very good ,844,8,Lower East Side 
+127,Hilton Garden Inn West 35th Street,Good ,483,7.4,Manhattan 
+128,"EVEN Midtown East - Grand Central, an IHG Hotel",Good ,"1,078",7.2,Midtown East 
+129,Ace Hotel New York,Very good ,"1,074",8.3,NoMad 
+130,DoubleTree by Hilton New York Downtown,Fabulous ,"1,797",8.6,Wall Street - Financial District 
+131,Hyatt Herald Square New York,Good ,844,7.6,NoMad 
+132,Fairfield Inn & Suites by Marriott New York Manhattan/Fifth Avenue,Very good ,728,8,Manhattan 
+133,Sixty LES,Very good ,415,8.2,Lower East Side 
+134,Royalton Park Avenue,Fabulous ,766,8.7,NoMad 
+135,The Jewel Hotel ,Good ,523,7.6,Manhattan 
+136,Four Points by Sheraton Manhattan SoHo Village,Good ,770,7.9,SoHo 
+137,Aloft Harlem,Very good ,178,8.3,Harlem 
+138,SpringHill Suites by Marriott New York Midtown Manhattan/Fifth Avenue,Very good ,464,8.1,Manhattan 
+139,Midtown E Studio w Great light Gym NYC-139,Very good ,647,8.5,Kips Bay 
+140,Archer Hotel New York,Review score ,"1,225",6.9,Manhattan 
+141,Hilton Garden Inn New York/Tribeca,Good ,562,7.5,Tribeca 
+142,The Westin New York at Times Square,Good ,770,7.3,Manhattan 
+143,Thompson Central Park - New York,Exceptional ,1 review,10,Manhattan 
+144,Moxy NYC Downtown,Good ,"1,188",7.5,Wall Street - Financial District 
+145,"Crowne Plaza HY36 Midtown Manhattan, an IHG Hotel",Very good ,"1,260",8.2,Hell's Kitchen 
+146,OYO Times Square,Review score ,"4,246",6.5,Manhattan 
+147,Hotel Hugo,Very good ,"2,521",8.1,SoHo 
+148,Dream Downtown,Very good ,586,8.1,Chelsea 
+149,Heart of Chelsea!,Fabulous ,"1,643",8.8,Chelsea 
+150,Hilton Garden Inn New York Manhattan Midtown East,Review score ,"1,243",5.6,Midtown East 
+151,NH Collection New York Madison Avenue,Very good ,"2,623",8.2,Murray Hill 
+152,The Gallivant Times Square,Good ,621,7.3,Manhattan 
+153,Arlo NoMad,Very good ,488,8.3,NoMad 
+154,The James New York - NoMad,Very good ,607,8.1,NoMad 
+155,San Carlos Hotel New York,Fabulous ,"1,425",8.8,Midtown East 
+156,U.S. Pacific Hotel,Very good ,"1,389",8.4,Chinatown 
+157,Executive Hotel Le Soleil New York,Good ,"2,014",7.2,Manhattan 
+158,Hilton New York Fashion District,Review score ,"1,000",6.8,Chelsea 
+159,Radio Hotel,Good ,"2,299",7.7,Washington Heights 
+160,"Martinique New York on Broadway, Curio Collection by Hilton",Good ,595,7.3,Manhattan 
+161,Hard Rock Hotel New York,Good ,751,7.6,Manhattan 
+162,Residence Inn by Marriott New York Manhattan/Central Park,Very good ,159,8.2,Manhattan 
+163,The Hotel at Fifth Avenue,Good ,"1,550",7.8,Manhattan 
+164,Hotel Hayden New York,Good ,"1,030",7.4,Chelsea 
+165,Millennium Hilton New York One UN Plaza,Very good ,"4,166",8.2,Midtown East 
+166,NoMo SoHo,Very good ,"1,089",8.5,SoHo 
+167,Midtown E 2BR w WD nr Central Park NYC-531,Very good ,,,Midtown East 
+168,Hotel Indigo Lower East Side New York,Fabulous ,,,Lower East Side 
+169,UWS 1BR w Gym Walk to Central Park NYC-165,Very good ,,,New York
+170,The FIDI Hotel,Good ,,,Wall Street - Financial District 
+171,The Frederick Hotel Tribeca,Fabulous ,,,Tribeca 
+172,Sheraton New York Times Square Hotel,Good ,,,Manhattan 
+173,Fairfield Inn & Suites by Marriott New York Midtown Manhattan/Penn Station,Very good ,,,Hell's Kitchen 
+174,The Pearl Hotel,Good ,,,Manhattan 
+175,Gansevoort Meatpacking,Fabulous ,663,8.3,Greenwich Village 
+176,The Peninsula New York,Very good ,579,8.8,Manhattan 
+177,Iroquois New York Times Square,Good ,"1,864",8.1,Manhattan 
+178,WJK,Review score ,377,7.6,New York
+179,Residence Inn New York Downtown Manhattan/Financial District,Very good ,832,8.7,Wall Street - Financial District 
+180,"Staypineapple, An Artful Hotel, Midtown New York",Good ,718,7.6,Hell's Kitchen 
+181,Hampton Inn Manhattan/Downtown- Financial District,Very good ,"1,294",8.3,Wall Street - Financial District 
+182,Soho Grand Hotel,Review score ,"1,294",7.5,SoHo 
+183,"The Time New York, part of JdV by Hyatt",Superb ,"3,255",8.7,Manhattan 
+184,Arlo Midtown,Good ,495,8.5,Hell's Kitchen 
+185,The Kitano Hotel New York,Very good ,"1,736",7.2,Murray Hill 
+186,Heritage Hotel New York City,Fabulous ,"1,918",6.5,Flatiron District 
+187,Hampton Inn Manhattan - Times Square South,Very good ,333,8.1,Hell's Kitchen 
+188,UES 1BR w Gym Doorman nr Carl Schurz Park NYC-653,Good ,234,7,New York
+189,Hotel Richland LES,,114,8.4,Chinatown 
+190,Selina Chelsea,,"2,620",6.4,Chelsea 
+191,Moxy NYC Lower East Side,,"2,412",9,Lower East Side 
+192,"Holiday Inn Express - Times Square, an IHG Hotel",,754,7.8,Hell's Kitchen 
+193,LUMA Hotel - Times Square,,"1,105",8.5,Manhattan 
+194,Courtyard New York Manhattan/Upper East Side,,94,8.9,Upper East Side 
+195,Renaissance New York Midtown Hotel,,"1,097",8.4,Manhattan 
+196,Kips Bay 1BR wElevator WD nr 6 train NYC-903,,"2,446",7.9,Kips Bay 
+197,Four Seasons Hotel New York Downtown,,,,Tribeca 
+198,Hilton Club The Quin New York,,,,Manhattan 
+199,Arlo SoHo,,,,SoHo 
+200,Lex Hotel NYC,Very good ,665,8.1,Kips Bay 
+201,Carlton Arms Hotel,Good ,"1,169",7.5,Gramercy 
+202,Cambria Hotel New York - Chelsea,Very good ,"2,717",8,Chelsea 
+203,Canal Loft Hotel,Good ,988,7,Chinatown 
+204,MADE Hotel,Fabulous ,"1,046",8.6,NoMad 
+205,Hotel 48LEX New York,Good ,321,7.2,Midtown East 
+206,Hotel 31 Extended Stay,Very good ,317,8,NoMad 
+207,Casablanca Hotel by Library Hotel Collection,Superb ,108,9.2,Manhattan 
+208,Hilton Club West 57th Street New York,Fabulous ,76,8.6,Manhattan 
+209,Da Vinci Hotel,Good ,721,7.3,Manhattan 
+210,Hotel AKA NoMad,Very good ,"1,420",8.5,NoMad 
+211,Midtown E 1BR w DM Gym near Bloomingdales NYC-710,Good ,"1,519",7.7,Midtown East 
+212,Renaissance New York Times Square Hotel,Very good ,49,8.2,Manhattan 
+213,Hotel Boutique at Grand Central,Very good ,407,8.4,Midtown East 
+214,New York EDITION,Good ,193,7.8,Flatiron District 
+215,Residence Inn by Marriott New York Manhattan/ Midtown Eastside,Very good ,"4,092",8.5,Midtown East 
+216,W New York - Union Square,Very good ,965,8.5,Union Square 
+217,Radio City Apartments,Superb ,307,9,Manhattan 
+218,The Moore,Fabulous ,"2,317",8.6,Chelsea 
+219,Equinox Hotel Hudson Yards New York City,Review score ,"2,982",6,Hudson Yards 
+220,Graduate New York,Good ,"3,832",7.9,New York
+221,Night Hotel Broadway,Good ,269,7.5,Upper West Side 
+222,Aliz Hotel Times Square,Very good ,"1,834",8.4,Hell's Kitchen 
+223,"Distrikt Hotel New York City, Tapestry Collection by Hilton",,,,Hell's Kitchen 
+224,Park Lane New York,,,,Manhattan 
+225,The Flat NYC,Very good ,707,8,Flatiron District 
+226,Airy Midtown E 1BR w Doorman nr UN NYC-894,Review score ,425,6.8,New York
+227,"Holiday Inn Wall Street, an IHG Hotel",Very good ,390,8.2,Wall Street - Financial District 
+228,Fitzpatrick Manhattan,Good ,985,7.8,Midtown East 
+229,Sohotel,Very good ,693,8.4,SoHo 
+230,ASIATEL HOTEL,Review score ,"1,218",5.7,New York
+231,Hyatt Centric Times Square New York,Very good ,113,8.3,Manhattan 
+232,Midtown Convention Center Hotel NYC,Very good ,"1,122",8.2,Hudson Yards 
+233,SoHo 2BR w WD Balcony nr Whole Foods NYC-892,Review score ,966,5.6,New York
+234,Hilton Club New York,Good ,711,7.2,Manhattan 
+235,The Renwick,Good ,"1,220",7.9,Murray Hill 
+236,Hudson River Hotel,Very good ,13,8,Hudson Yards 
+237,Americana Inn,Very good ,390,8.5,Manhattan 
+238,The Shelburne Sonesta New York,Good ,"2,533",7.8,Murray Hill 
+239,Entire Apartment near Central Park,Superb ,233,9.2,Hell's Kitchen 
+240,"EVEN Hotel New York Times Square South, an IHG Hotel",Superb ,14,9.3,Hell's Kitchen 
+241,Courtyard by Marriott New York World Trade Center Area,Good ,553,7.5,Wall Street - Financial District 
+242,Soul Food (Mont Morris),Good ,601,7.9,Harlem 
+243,UES 1BR w Elevator nr Bloomingdales NYC-639,Very good ,532,8.3,Upper East Side 
+244,Hotel Barrière Fouquet's New York,,,,Tribeca 
+245,Sofitel New York,,,,Manhattan 
+246,Sleek Nolita 1BR w wd nr Soho NYC-891,,,,SoHo 
+247,Moderne Hotel,,,,Manhattan 
+248,The Gardens Sonesta ES Suites New York,,,,Upper East Side 
+249,Tempo By Hilton New York Times Square,,,,Manhattan 
+250,UES studio w elevator doorman nr Central Park NYC-1038,Superb 9.0,65 external  ,8.3,New York
+251,Roomy Midtown W 1BR w Gym nr Times Sq NYC-633,Very good ,"1,592",6.4,Manhattan 
+252,Nap York Central Park Sleep Station,Review score ,855,8.4,Manhattan 
+253,The Gatsby Hotel,Very good ,400,6.4,Lower East Side 
+254,UES 2br w elevator doorman gym nr Central Park NYC-1071,Review score ,386,6.4,East Harlem 
+255,Sutton Place 1br w doorman gym nr Sutton Park NYC-1013,Review score ,"1,092",8.3,Midtown East 
+256,Hotel Mulberry,Very good ,259,8.2,Chinatown 
+257,Doxie Hotel,Very good ,411,8.5,Manhattan 
+258,Mondrian Park Avenue,Very good ,865,8.2,NoMad 
+259,UES 1BR w DM Elevator Gym Coworking Spaces NYC-588,Very good ,"3,471",8.2,Upper East Side 
+260,Midtown 1BR w Gym Doorman nr Central Park NYC-510,Very good ,723,8.1,New York
+261,West Village studio w courtyard nr NYU NYC-1016,Very good ,525,8.9,Greenwich Village 
+262,KAMA CENTRAL PARK,Fabulous ,943,8.1,Upper West Side 
+263,Fitzpatrick Grand Central,Very good ,"1,500",8.4,Midtown East 
+264,Pestana Park Avenue,Very good ,325,8.8,Murray Hill 
+265,The Washington by LuxUrban,Fabulous ,"1,708",8.4,Wall Street - Financial District 
+266,The Marlton Hotel,Very good ,230,8.3,Greenwich Village 
+267,The Standard - East Village,Very good ,227,8.5,East Village 
+268,The Ludlow Hotel,Very good ,"1,778",9.1,Lower East Side 
+269,Pestana CR7 Times Square,Superb ,53,7.9,Hell's Kitchen 
+270,The Plaza,Good ,"4,288",3.8,Manhattan 
+271,FiDi Studio w Residents Bar Golf Simulator Gym NYC-271,Review score ,787,10,New York
+272,Margaritaville Resort Times Square,Exceptional ,1 review,8.1,Manhattan 
+273,Northern Lights Mansion,Very good ,355,6.9,Harlem 
+274,Club Wyndham Midtown 45,Review score ,377,8.6,Midtown East 
+275,Henn na Hotel New York,Fabulous ,"1,251",8.4,Manhattan 
+276,Fully Furnished Entire Floor Apartment in Historic Harlem,Very good ,128,7.7,Harlem 
+277,Embassy Suites By Hilton New York Manhattan Times Square,Good ,258,6.6,Manhattan 
+278,Bowery Grand Hotel,Review score ,125,7.4,Lower East Side 
+279,Unique 2BD At Columbus Avenue,Good ,699,7.2,Upper West Side 
+280,Kips Bay 1BR w Gym Doorman Parking Garage NYC-594,Good ,400,9.1,Kips Bay 
+281,Cozy Nolita 2 Bedroom apartment,Superb ,285,6.3,SoHo 
+282,Edge Hotel Washington Heights,Review score ,109,8.8,Washington Heights 
+283,Redford Hotel,Fabulous ,30,8.2,Lower East Side 
+284,Carnegie Hotel,Very good ,"1,754",9,Manhattan 
+285,Kixby,Superb ,437,7.7,Manhattan 
+286,Hyatt Union Square New York,Good ,60,8.7,Union Square 
+287,West 30th Street Guest House,Fabulous ,200,9,Chelsea 
+288,Madison LES Hotel,Superb ,2,7.1,Lower East Side 
+289,Hotel Five44,Good ,453,6.9,Hell's Kitchen 
+290,Cozy Studio in NYC,Review score ,769,7,Upper West Side 
+291,"The Langham , Fifth Avenue",Good ,2,8.2,Manhattan 
+292,Casamia 36 Hotel,Very good ,465,9.5,Hudson Yards 
+293,Collective Governors Island,Exceptional ,13,7.2,Governors Island 
+294,Moxy NYC East Village,Good ,6,8.5,East Village 
+295,The Kimberly Hotel,Very good ,524,8.7,Midtown East 
+296,The Historic Blue Moon Hotel - NYC,Fabulous ,434,8.7,Lower East Side 
+297,Baccarat Hotel and Residences New York,Fabulous ,553,9.3,Manhattan 
+298,UES apartment,Superb ,114,8,Upper East Side 
+299,"Le Meridien New York, Central Park by Marriott",Very good ,372,7.9,Manhattan 
+300,Hotel 32 32,Good ,817,8.4,Manhattan 
+301,Antique Victorian 2 Bedroom best Location,Very good ,472,8.5,Lower East Side 
+302,"Kimpton Hotel Eventi, an IHG Hotel",Very good ,314,7.7,Chelsea 
+303,Nine Orchard,Good ,168,8.5,Chinatown 
+304,"Le Méridien New York, Fifth Avenue",Very good ,"1,085",5.3,NoMad 
+305,1 Hotel Central Park,Review score ,"1,195",7.4,Manhattan 
+306,Merrion Row Hotel and Public House,Good ,"1,118",8.7,Manhattan 
+307,"The Historic Blue Angel Hotel Lexington Ave, Ascend Hotel Collection",Fabulous ,"1,471",7.2,Midtown East 
+308,West 119th B&B,Good ,416,7.9,Harlem 
+309,Fairfield Inn & Suites New York Manhattan/Downtown East,Good ,173,7.9,Chinatown 
+310,The Fifty Sonesta Select New York,Good ,352,8.4,Midtown East 
+311,109-1 Huge 3BR Best Value Amazing NYC Apt,Very good ,385,7.6,East Harlem 
+312,454-3W PRIME location 2BR Newly Furnished sleeps 5,Good ,"1,482",8.7,Hell's Kitchen 
+313,"The Pierre, A Taj Hotel ",Exceptional 10,22 external  ,8.5,Upper East Side 
+314,Smyth Tribeca,Fabulous ,241,9.4,Tribeca 
+315,Sonder Henri on 24,Very good ,497,7.3,Flatiron District 
+316,Hotel Lucerne,Superb ,192,8.7,Upper West Side 
+317,Jazz on the Park Youth Hostel,Good ,117,8,Upper West Side 
+318,Hampton Inn Madison Square Garden,Fabulous ,59,8.2,Chelsea 
+319,Hotel Beacon,Very good ,2,10,Upper West Side 
+320,The Central Park North,Very good ,79,9,Harlem 
+321,809-2B New bldg Jr columbus circle Balcony WD,Exceptional ,1 review,8.3,Hell's Kitchen 
+322,Kasa The Duffy Times Square,Superb ,3,6.5,Hell's Kitchen 
+323,"The Lexington Hotel, Autograph Collection",Superb 9.0,3 external  ,7.8,Midtown East 
+324,Hotel Mimosa,Very good ,379,7.6,Chinatown 
+325,Royalton New York,Review score ,42,8.8,Manhattan 
+326,Corporate Suites on Upper East Side,Good ,255,8.4,Upper East Side 
+327,Chelsea Townhouse,Good ,99,9.7,Chelsea 
+328,Studio Apartment In Heart Of Chelsea,Fabulous ,212,8.8,Chelsea 
+329,The Broome,Very good ,602,8.4,SoHo 
+330,ModernHaus SoHo,Exceptional ,9,7.8,SoHo 
+331,Crosby Street Hotel,Superb 9.0,3 external  ,1,SoHo 
+332,Top Notch 2 Bedroom Minutes From Central Park,Fabulous ,165,9,Upper East Side 
+333,Truss Hotel Times Square,Very good ,52,7,Hell's Kitchen 
+334,"The Ritz-Carlton New York, Central Park",Good ,146,,Manhattan 
+335,102-1A Best Value 2BR Apt Near Central Park,Superb 9.0,3 external  ,,East Harlem 
+336,Kasa Lantern Lower East Side,Exceptional 10,14 external  ,,Lower East Side 
+337,Gramercy Corporte Suites,Superb 9.0,13 external  ,,Kips Bay 
+338,The St. Regis New York,Superb 9.0,14 external  ,,Midtown East 
+339,Penthouse Hell's Kitchen,Review score ,1 review,,Hell's Kitchen 
+340,Private room in Harlem,Superb ,3,,Harlem 
+341,39-3 Newly renovated 3 BR Prime midtown sleeps 6,Superb 9.0,7 external  ,,Hell's Kitchen 
+342,The Harlem Cascades,Superb 9.0,4 external  ,,Harlem 
+343,Sonder Flatiron,Good ,1 review,,NoMad 
+344,Sonder Duane Street,,,,Tribeca 
+345,Central Harlem Oasis- LED House,,,,Harlem 
+346,Harlem 2BR Basement 3min to Subway,,,,Harlem 
+347,Hotel Giraffe by Library Hotel Collection,,,,NoMad 
+348,Lombardy Hotel,,,,Midtown East 
+349,Exotic Studio Apartment At Upper East Side,,,,Upper East Side 
+350,East Village 2br w wd nr Union Sq NYC-939,,,,East Village 
+351,UES 1BR w Gym Doorman WD nr Carl Schurz Park NYC-648,,,,Upper East Side 
+352,UES 1BR w DM Elevator Gym Coworking Spaces NYC-589,,,,Upper East Side 
+353,FiDi 1BR w WD Gym nr World Trade Center NYC-540,,,,Wall Street - Financial District 
+354,UES 2BR w Gym Doorman Balcony Stunning Roof NYC-502,,,,Upper East Side 
+355,Exclusive 2BR Apartment At Columbus Circle,,,,Manhattan 
+356,Save on 2Day or more Stays 25min to Times Sq,,,,Harlem 
+357,Cozy & Beautiful 2 BD Apartment In NYC,,,,Upper West Side 
+358,FiDi 1br w lounge gym nr Freedom Tower NYC-1138,,,,Wall Street - Financial District 
+359,NoMad 1br w wd elevator roof NYC-1055,,,,NoMad 
+360,Chelsea 1BR w Balcony Gym Doorman NYC-162,,,,Chelsea 
+361,UWS 1BR w Gym Doorman nr Julliard NYC-834,,,,Upper West Side 
+362,Near Most Attractions Walk to Train Times Sq near,,,,Harlem 
+363,UWS 2BR w Doorman Gym Parking nr Central Park NYC-596,,,,Upper West Side 
+364,Midtown E 1BR w Doorman nr Flatiron NYC-41,,,,Kips Bay 
+365,Sutton Place Studio w Gym nr Central Park NYC-517,,,,Midtown East 
+366,UES studio w elevator doorman nr Central Park NYC-1039,,,,East Harlem 
+367,Nolita 1br w wd nr New Museum NYC-1036,,,,SoHo 
+368,UWS 2BR w Doorman Elevator nr Riverside Park NYC-861,,,,Upper West Side 
+369,UWS 2BR w Elevator DM Gym nr Central Park NYC-662,,,,Upper West Side 
+370,Murray Hill 1BR w Doorman Gym Pool Parking NYC-583,,,,Murray Hill 
+371,UWS 2BR w Gym nr Riverside Central Parks NYC-513,,,,Upper West Side 
+372,Tribeca studio w gym doorman nr Freedom Tower NYC-1106,,,,Tribeca 
+373,UWS 1br w gym elevator wd nr Central Park NYC-1020,,,,Upper West Side 
+374,Tribeca Studio w Gym WD Doorman Pool View NYC-280,,,,Tribeca 
+375,Elegant East Side,,,,Upper East Side 
+376,Stylish 2BD/1.5BA with the rooftop access and in-building gym,,,,Wall Street - Financial District 
+377,Gorgeous One-bedroom apartment in the center of the Financial District,,,,Wall Street - Financial District 
+378,"3 BD/2 BA apartment in Manhattan, Gym, Rooftop",,,,Wall Street - Financial District 
+379,LUXURY 4 BEDS 1.5 BATHS BY CENTRAL PARK,,,,Upper West Side 
+380,Nolita 2br w wd nr SoHo NYC-992,,,,SoHo 
+381,Kips Bay 2BR w Doorman Elevator nr Bars NYC-370,,,,Kips Bay 
+382,East Village 2br w wd gym elevator nr cafes NYC-1044,,,,East Village 
+383,Fabulous 2 Bedroom At Columbus Circle,,,,Manhattan 
+384,Tribeca Studio w Great views Indoor pool NYC-38,,,,Tribeca 
+385,Gorgeous Central Park,,,,Upper West Side 
+386,317-2D Brand New Modern 1BR W&D near Central Park,,,,Upper East Side 
+387,Midtown West 1br w gym wd doorman nr Hudson NYC-1102,,,,Hell's Kitchen 
+388,LES 2BR w Elevator WD Roof nr parks NYC-788,,,,Lower East Side 
+389,Midtown W 2BR w Gym WD nr Times Sq NYC-898,,,,Hell's Kitchen 
+390,E Village 1BR w WD on prime corner NYC-858,,,,East Village 
+391,Classic LES 1BR w WD nr BD train NYC-870,,,,Lower East Side 
+392,Midtown 2BR w Pool Gym Roof nr Broadway NYC-382,,,,Manhattan 
+393,Chelsea 1BR w Balcony Doorman Gym NYC-158,,,,Chelsea 
+394,UWS 2BR w WD Deck nr Central Park NYC-773,,,,Upper West Side 
+395,Kips Bay 1br w doorman wd nr East River NYC-978,,,,Kips Bay 
+396,East Village 1br w wd balcony nr Gramercy NYC-1003,,,,East Village 
+397,East Village 1br w wd nr Stuyvesant Park NYC-923,,,,East Village 
+398,UES 1BR w Elevator nr Bloomingdales NYC-638,,,,Upper East Side 
+399,Sutton Place 1BR w Elevator nr Central Park NYC-520,,,,Midtown East 
+400,Central Park N Residence,,,,Harlem 
+401,UWS 1BR w WD nr Lincoln Center NYC-880,,,,Upper West Side 
+402,139-2W Prime west village Furnished 2BR Best value,,,,Greenwich Village 
+403,1571-4S 2BR 2 blocks from Subway Upper East Side,,,,Upper East Side 
+404,The Harlem Pearl,,,,Harlem 
+405,private room in a shared apartment 15 minutes to times square!,,,,Harlem 
+406,Stunning 2 BD Apartment At East Side,,,,Upper East Side 
+407,Excellent 3 Beds 2 Baths By Central Park,,,,Upper West Side 
+408,117-2 Modern Extra Large 3BR,,,,East Harlem 
+409,The Harlem Getaway,,,,Harlem 
+410,Global Luxury Suites at Via 57,,,,Hell's Kitchen 
+411,Top Notch 2BR & 2BA Suite Minutes From Central Park in Upper East Side,,,,Upper East Side 
+412,One Bedroom Apartment At Upper West Side,,,,Upper West Side 
+413,Three Bedroom Unique Apartment In West side,,,,Hell's Kitchen 
+414,Modern Studio Suite with Charming Juliet Balcony,,,,Upper East Side 
+415,Top Notch 2BR Minutes From Central Park,,,,Upper East Side 
+416,Sutton House by RoveTravel Triplex Townhouse,,,,Upper East Side 
+417,Luxe Studio with Charming Juliet Balcony in Upper East Side,,,,Upper East Side 
+418,Glorious 3BD 3BA Apartment In East Side,,,,Upper East Side 
+419,Midtown E 1BR Office nook Doorman Gym NYC-43,,,,Kips Bay 
+420,Midtown 1br w doorman gym wd nr Rock Center NYC-1129,,,,Manhattan 
+421,Soho 1br w private deck wd nr New Museum NYC-1104,,,,SoHo 
+422,East Village 3br w wd nr Union Square NYC-994,,,,East Village 
+423,Midtown E 2BR w Doorman 2 blocks to river NYC-700,,,,Midtown East 
+424,East Village 2br w wd nr Union Sq NYC-939,,,,East Village 
+425,Lovely 3 bedroom apartment in NYC 2,,,,Chinatown 
+426,East Village 1br w wd nr Union Sq NYC-938,,,,East Village 
+427,Chelsea 2BR w Elevator WD nr Mad Sq Gdn NYC-899,,,,Chelsea 
+428,UES 2BR w WD Elevator nr Bloomingdales NYC-873,,,,Manhattan 
+429,Sutton Place 1BR w Gym Pool DM nr Central Pk NYC-461,,,,Midtown East 
+430,1BR nr Times Sq w Indoor pool Gym NYC-93,,,,Manhattan 
+431,UWS 1BR w Gym Doorman nr Julliard NYC-832,,,,Upper West Side 
+432,Midtown 2BR w Elevator Doorman nr shopping NYC-737,,,,Manhattan 
+433,Tribeca Studio w Gym Doorman Valet NYC-53,,,,Tribeca 
+434,Hells Kitchen 1BR w Doorman nr Central Park NYC-525,,,,Hell's Kitchen 
+435,Sutton Place 2BR w Gym Pool nr Rockefeller NYC-516,,,,Midtown East 
+436,Tribeca Studio w Gym Pool NYC-245,,,,Tribeca 
+437,UES 1br w wd gym doorman nr Cooper Hewitt NYC-1116,,,,Upper East Side 
+438,UWS 2br w doorman gym nr Riverside Park NYC-1080,,,,Upper West Side 
+439,Kips Bay 2br w wd doorman roof nr Bellevue NYC-1059,,,,Kips Bay 
+440,Stylish 2BD near Central Park,,,,Upper West Side 
+441,Elegant 3 Beds 2 Baths in Murray Hill,,,,Manhattan 
+442,FiDi studio w gym doorman wd nr Wall St NYC-982,,,,Wall Street - Financial District 
+443,Kips Bay 2BR w Doorman Gym Bike Storage NYC-815,,,,Kips Bay 
+444,Untitled at 3 Freeman Alley,,,,Lower East Side 
+445,Wall St 1BR wSpeakeasy Doorman Gym NYC-225,,,,Wall Street - Financial District 
+446,East Village 1br w wd nr cafes NYC-1115,,,,East Village 
+447,3BR Greenwich Condo Ikebana by RoveTravel,,,,Greenwich Village 
+448,UES 1BR w Gym Playroom Roof nr Hospital NYC-376,,,,Upper East Side 
+449,Elegant East Side,,,,Upper East Side 
+450,Exotic 2 Bedroom At Upper West Side,,,,Upper West Side 
+451,UES 1BR w Doorman Elevator Gym Pool NYC-808,,,,East Harlem 
+452,Kips Bay 1br w gym doorman nr Murray Hill NYC-1062,,,,Kips Bay 
+453,Kips Bay 2br w wd doorman roof nr Bellevue NYC-1058,,,,Kips Bay 
+454,Kips Bay 2br w wd doorman roof nr Bellevue NYC-1057,,,,Kips Bay 
+455,Murray Hill studio w elevator gym doorman NYC-991,,,,Murray Hill 
+456,Midtown East 3BR w Doorman Gym nr Bloomingdales NYC-915,,,,Midtown East 
+457,Murray Hill Studio w DM elevator lounge gym NYC-913,,,,Murray Hill 
+458,Midtown East 1BR w DM nr UN NYC-906,,,,Midtown East 
+459,UWS 2BR w WD nr Central Park NYC-896,,,,Upper West Side 
+460,Luxe E Village 2BR w WD nr TJ NYC-855,,,,East Village 
+461,UWS 1BR w Gym Doorman nr Julliard NYC-833,,,,Upper West Side 
+462,Kips Bay 2BR w Doorman Gym Bike Storage NYC-817,,,,Kips Bay 
+463,Midtown E 3BR w Elevator Doorman nr UN NYC-814,,,,Midtown East 
+464,Murray Hill Studio w Elevator Gym DM nr GCT NYC-792,,,,Murray Hill 
+465,Midtown 2BR Duplex w Doorman Gym nr Mad Sq NYC-774,,,,Manhattan 
+466,LIC 2BR w WD Elevator Doorman nr E River NYC-766,,,,New York
+467,Midtown 1BR w Doorman Gym nr Times Sq NYC-697,,,,Manhattan 
+468,LIC 2BR w Doorman Gym Pool nr E River NYC-689,,,,New York
+469,UWS 1BR w Doorman Terrace nr Central Park NYC-615,,,,Upper West Side 
+470,Murray Hill 1BR w Doorman Gym Pool River Views NYC-590,,,,Murray Hill 
+471,Murray Hill 1br w Doorman Gym Pool NYC-580,,,,Murray Hill 
+472,Midtown E Studio w WD nr Central Park NYC-530,,,,Midtown East 
+473,Chelsea 1BR w Gym nr Penn Station MSG NYC-528,,,,Hell's Kitchen 
+474,Hells Kitchen 2BR w Doorman nr Central Park NYC-522,,,,Hell's Kitchen 
+475,Corner 1BR in W Village w Doorman NYC-157,,,,Greenwich Village 
+476,Spacious 3BR 2BA Apartment In Soho,,,,Tribeca 
+477,Two BD Two BA At Upper East Side,,,,Upper East Side 
+478,Modified Two Bedroom Apartment At Columbus Avenue,,,,Upper West Side 
+479,Furnished 3BD 2BA At Murray Hill,,,,Manhattan 
+480,Two Bedroom Gorgeous Apartment At Upper west Side,,,,Upper West Side 
+481,Stunning View Of Central Park,,,,Hell's Kitchen 
+482,Stunning Penthouse in Chelsea,,,,Chelsea 
+483,Murray Hill 2br w gym lounge nr East River NYC-944,,,,Murray Hill 
+484,UWS 3br w elevator doorman gym nr Central Park NYC-1002,,,,Upper West Side 
+485,Absolutely new 3BD/2BA in Downtown NYC,,,,Wall Street - Financial District 
+486,Large 3 bedroom 2 Blocks from Times Square,,,,Hell's Kitchen 
+487,New 2Bd/2Ba+Office in Manhattan,,,,Wall Street - Financial District 
+488,Stylish 2BR with a Dedicated Workspace,,,,Harlem 
+489,2 BD/1.5 BA apart w W/D in unit by Boomerang,,,,Wall Street - Financial District 
+490,Freshly renovated 2BD/1.5BA apartment in Downtown,,,,Wall Street - Financial District 
+491,Beautiful 3 BD/1 BA apartment in NoMad NYC,,,,NoMad 
+492,NYC Duplex & Private garden Oasis!!,,,,Upper West Side 
+493,Exotic 2BR At Midtown West,,,,Hell's Kitchen 
+494,One Bedroom Apartment At Columbus Circle,,,,Manhattan 
+495,Exotic 1BR Apartment At Columbus Circle,,,,Manhattan 
+496,East Village 2br w wd nr Union Sq NYC-937,,,,East Village 
+497,Midtown E 2BR w Balcony Gym Doorman NYC-40,,,,Murray Hill 
+498,Hells Kitchen 2BR w Pool DM nr Central Park NYC-469,,,,Hell's Kitchen 
+499,317-1A New Modern 1BR W&D Walk to Central Park,,,,Upper East Side 
+500,Gramercy Park 2br w wd balcony nr 6 train NYC-947,,,,Gramercy 
+501,Tribeca Studio Indoor pool Great views NYC-185,,,,Tribeca 
+502,Central Chelsea Studio w Balcony Doorman NYC-34,,,,Chelsea 
+503,Unique 2BR Near Times Square,,,,Hell's Kitchen 
+504,Studio in Upper Manhattan Great Monthly Deal,,,,Harlem 
+505,The Chelsea Escape,,,,Chelsea 
+506,Posh 4 Bedroom Times Square Penthouse With Private Rooftop,,,,Hell's Kitchen 
+507,Oasis II: Central Harlem,,,,Harlem 
+508,Outsite Chelsea,,,,Chelsea 
+509,Studio In Heart Of Chelsea,,,,Chelsea 
+510,Luxurious 3 Beds 2 Baths By Central Park,,,,Upper West Side 
+511,Luxurious 2 Beds 2 Baths In Murray Hill,,,,Manhattan 
+512,NYC surreal Loft with 6 bedrooms and stunning Balcony in the heart of Manhattan.,,,,Chelsea 
+513,317-3D I NEW Modern 1BR W&D Walk to Central Park,,,,Upper East Side 
+514,Luxury 2 Beds 2 Baths In Murray Hill,,,,Manhattan 
+515,Luxury 3 Beds 2 Baths In Murray Hill,,,,Manhattan 
+516,Luxury 2BD 2BA At Upper West Side,,,,Upper West Side 
+517,3BD 2BA Modern Apartment In NYC,,,,Manhattan 
+518,Excellent 2 BD Apartment At Murray Hill,,,,Manhattan 
+519,Fantastic 2BR At Financial District,,,,Wall Street - Financial District 
+520,Fantastic 3BR At Financial District,,,,Wall Street - Financial District 
+521,3 Bedroom Apartment In Midtown East,,,,Manhattan 
+522,2BD 1BA Apartment At Financial District,,,,Wall Street - Financial District 
+523,2BD 1BA Apartment At Wall Street,,,,Wall Street - Financial District 
+524,Two BD Apartment At Midtown East,,,,Manhattan 
